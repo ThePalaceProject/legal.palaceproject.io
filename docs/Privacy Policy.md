@@ -2,7 +2,7 @@
 
 ## Introduction
 
-LYRASIS ("**Company**" or "**We**") is a nonprofit organization that
+Lyrasis ("**Company**" or "**We**") is a nonprofit organization that
 operates The Palace Project ("App") to provide access to digital library
 materials for public libraries, schools, and other institutions across
 the United States. We do not operate the App for commercial purposes,
