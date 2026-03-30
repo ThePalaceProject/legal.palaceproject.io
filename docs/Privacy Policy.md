@@ -2,20 +2,14 @@
 
 ## Introduction
 
-LYRASIS ("**Company**" or "**We**") respects your privacy and is
-committed to protecting it through our compliance with this policy. This
-policy describes:
-
--   The types of information we may collect or that you may provide when
-    you download, install, register with, access, or use The Palace
-    Project mobile application (the "**App**").
-
--   Our practices for collecting, using, maintaining, protecting, and
-    disclosing that information.
-
-This policy applies only to information we collect in this App and in
-email, text, and other electronic communications sent through or in
-connection with this App.
+LYRASIS ("**Company**" or "**We**") is a nonprofit organization that
+operates The Palace Project ("App") to provide access to digital library
+materials for public libraries, schools, and other institutions across
+the United States. We do not operate the App for commercial purposes,
+and we never sell personal information. This Privacy Policy applies
+nationwide and explains how we collect, use, protect, and disclose information
+in accordance with applicable federal and state data-privacy laws and best
+practices, including those protecting students and minors.
 
 This policy DOES NOT apply to information that:
 
@@ -37,18 +31,6 @@ to time. Your continued use of this App after we revise this policy
 means you accept those changes, so please check the policy periodically
 for updates.
 
-LYRASIS never sells your personal information. LYRASIS will not use your
-information for any purposes other than as described in this Privacy
-Policy.
-
-## Children Under the Age of 13
-
-The App is not intended for children under 13 years of age, and we do
-not knowingly collect personal information from children under 13. If we
-learn we have collected or received personal information from a child
-under 13 without verification of parental consent, we will delete that
-information.
-
 ## Information We Collect and How We Collect It
 
 We collect information from and about users of our App:
@@ -56,6 +38,11 @@ We collect information from and about users of our App:
 -   Directly from you when you provide it to us.
 
 -   Automatically when you use the App.
+
+Lyrasis collects only the limited information necessary to enable access
+to library resources, maintain functionality, and provide technical
+support. We do not collect or store names, demographic data, educational
+records, or any content created by users.
 
 ### Information You Provide to Us
 
@@ -103,6 +90,12 @@ automatically collect:
     allow such location services and only once to determine your local
     libraries.
 
+IP addresses are processed to identify and prevent unauthorized access,
+detect abuse, and generate aggregated usage metrics. Lyrasis does not use
+IP addresses to create user profiles or track browsing activity across services,
+and IP data are retained only for a limited period necessary for these operational
+purposes.
+
 If you do not want us to collect this information do not download the
 App or delete it from your device.
 
@@ -112,7 +105,7 @@ We use information that we collect about you or that you provide to us,
 including any personal information, to:
 
 -   Provide you with the App and its contents, and any other
-    information, products or services that you request from us.
+    information, products, or services that you request from us.
 
 -   Fulfill any other purpose for which you provide it.
 
@@ -135,10 +128,18 @@ deliver a better and more personalized experience by enabling us to:
 We use location information we collect to provide you location-relevant
 services via our App.
 
+Lyrasis does not sell, share, or use information for advertising, marketing,
+or profiling. Information, including IP logs, is used exclusively to operate
+and improve the App, ensure security, and troubleshoot technical issues.
+
 ## Disclosure of Your Information
 
-We may disclose aggregated information about our users, and information
-that does not identify any individual or device, without restriction.
+We may disclose aggregated, non-identifiable information without restriction.
+
+All third-party service providers engaged by Lyrasis (for example, cloud-hosting
+or security vendors) are bound by written agreements requiring them to protect data
+in a manner consistent with this Policy and to use it only for the limited purpose
+of supporting the App.
 
 In addition, we may disclose personal information that we collect or you
 provide solely to the extent that you opt-in for a virtual library card:
@@ -150,9 +151,9 @@ provide solely to the extent that you opt-in for a virtual library card:
 
 -   To a buyer or other successor in the event of a merger, divestiture,
     restructuring, reorganization, dissolution, or other sale or
-    transfer of some or all of LYRASIS’ assets, whether as a going
+    transfer of some or all of Lyrasis’ assets, whether as a going
     concern or as part of bankruptcy, liquidation, or similar
-    proceeding, in which personal information held by LYRASIS about our
+    proceeding, in which personal information held by Lyrasis about our
     App users is among the assets transferred.
 
 -   To fulfill the purpose for which you provide it.
@@ -169,7 +170,7 @@ provide solely to the extent that you opt-in for a virtual library card:
     between you and us, including the App EULA.
 
 -   If we believe disclosure is necessary or appropriate to protect the
-    rights, property, or safety of LYRASIS, our customers or others.
+    rights, property, or safety of Lyrasis, our customers, or others.
 
 ## Your Choices About Our Collection, Use, and Disclosure of Your Information
 
@@ -189,6 +190,11 @@ to control certain uses and disclosures of over your information.
     of location information, some parts of the App may become
     inaccessible or not function properly.
 
+Because the App collects only minimal operational data, most users do not
+need to take additional steps to limit collection. Parents or guardians of
+students who access the App through a school may submit privacy or deletion
+requests through that institution, which will coordinate with Lyrasis.
+
 ## Accessing and Correcting Your Personal Information
 
 You may also send us an email at <privacy@thepalaceproject.org> to
@@ -197,6 +203,37 @@ have provided to us. We cannot delete your personal information except
 by also deleting your user account. We may not accommodate a request to
 change information if we believe the change would violate any law or
 legal requirement or cause the information to be incorrect.
+
+## Children's and Student Privacy
+
+The App may be used by children under 13 through their schools or libraries.
+Lyrasis is a nonprofit organization and therefore is not a "commercial operator"
+under the Children's Online Privacy Protection Act (COPPA) or a "business" under
+state consumer-privacy laws. Nevertheless, we voluntarily follow COPPA's core
+principles and comply with the Family Educational Rights and Privacy Act (FERPA)
+and similar student-data privacy requirements when providing services to educational
+institutions.
+
+Lyrasis supports the commitments outlined in the Student Privacy Pledge
+(studentprivacypledge.org) to promote responsible use of student information
+and uphold high standards for data security and transparency.
+
+We encourage parents, guardians, and educators to discuss online safety and
+responsible use of technology with children. Additional resources on protecting
+children’'s privacy online are available at ftc.gov/kidsprivacy.
+
+Please note that your library or school may maintain its own privacy policy governing
+its handling of user or student information. This Policy applies only to information
+collected or processed by Lyrasis through The Palace Project.
+
+Requests to access, correct, or delete student information must come from the student's
+school or library, which will verify the requester's identity and relationship before
+forwarding the request to Lyrasis.
+
+After termination or deactivation of a library or school account, Lyrasis may retain limited,
+non-personal data for backup or audit purposes for a commercially reasonable period. All
+student data associated with the institution will be deleted or anonymized promptly in accordance
+with this Policy.
 
 ## Your California Privacy Rights
 
@@ -227,6 +264,23 @@ your personal information transmitted through our App. Any transmission
 of personal information is at your own risk. We are not responsible for
 circumvention of any privacy settings or security measures we provide.
 
+In the unlikely event of a confirmed data-security incident affecting
+personal information, Lyrasis will notify affected partner institutions
+without undue delay, and in any event within seventy-two (72) hours of
+confirmation.
+
+## Data Retention and Deletion
+
+Lyrasis retains information only as long as needed to provide the App or
+as required by law.
+
+When an account is closed or an institution requests deletion, Lyrasis
+permanently deletes or anonymizes related data within ninety (90) days.
+
+Temporary system logs, including IP addresses, are automatically purged
+or anonymized in accordance with our standard retention policies or sooner
+after they are no longer needed for security or diagnostic purposes.
+
 ## Changes to Our Privacy Policy
 
 We may update our privacy policy from time to time. If we make material
@@ -243,4 +297,7 @@ policy to check for any changes.
 To ask questions or comment about this privacy policy and our privacy
 practices, contact us at: <privacy@thepalaceproject.org>
 
-Last Modified: July 2021
+For schools or libraries operating under data-privacy agreements, please
+include “Institutional Privacy Inquiry” in the subject line.
+
+Last Modified: November 2025
